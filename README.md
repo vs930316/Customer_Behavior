@@ -1,5 +1,4 @@
-# Customer_Behavior
-# Customer Shopping Behavior Analysis (SQL Project)
+# Customer Shopping Behavior Analysis (PYTHON, SQL, POWER BI Project)
 
 ## Project Overview
 
